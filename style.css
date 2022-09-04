@@ -1,0 +1,11 @@
+:root {
+    --color: #f43333;
+}
+
+asda
+solidcolorasd
+asideda
+solidcolorasd
+p {
+    color: --color;
+}

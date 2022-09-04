@@ -1,0 +1,9 @@
+.container {
+    &-one {
+        color: aqua;
+    }
+}
+
+@each $color in 1 2 3 4 {
+    background-image: url(../Както/#{$color});
+}
