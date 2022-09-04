@@ -1,11 +1,7 @@
-:root {
-    --color: #f43333;
+body {
+    background-color: azure;
 }
-
-asda
-solidcolorasd
-asideda
-solidcolorasd
-p {
-    color: --color;
-}
+ p {
+    border: 1px solid #000;
+    border-radius: 20px;
+ }
